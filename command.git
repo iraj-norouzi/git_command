@@ -3,4 +3,5 @@ git status
 git add -A
 git commit -m 'comment'
 git remot add name branch
+git checkout -b newbranch
 

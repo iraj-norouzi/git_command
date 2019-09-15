@@ -1,0 +1,10 @@
+git init .
+git status
+git add -A
+git commit -m 'comment'
+git remot add name *.git
+git checkout -b newbranch
+git push -f -u remotname branch
+git clone *.git
+
+https://education.github.com/git-cheat-sheet-education.pdf
